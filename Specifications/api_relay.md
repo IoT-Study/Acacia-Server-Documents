@@ -135,7 +135,7 @@ __注意事項__
 | INTEGER | 8 |
 | FLOAT | 8 |
 | BOOLEAN | 1 |
-※__TIMESTAMP__は使用不可の予定です。
+※ __TIMESTAMP__ は使用不可の予定です。
 
 ### 4.2 参考リンク
 - [JSON-RPC](http://www.jsonrpc.org/specification)
