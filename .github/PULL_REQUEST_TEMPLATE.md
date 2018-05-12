@@ -11,4 +11,4 @@
 ## レビュワー
 
 - [ ] @saitoiotken
-
+- [ ] @koutarou-akiyoshi
