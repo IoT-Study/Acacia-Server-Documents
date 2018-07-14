@@ -45,9 +45,8 @@ WayPointをサーバで保存します。
 
 ### 3.2 実装例
 ```
-String userId = FirebaseManager.userId();
 DatabaseReference dbRef = FirebaseDatabase.getInstance().getReference();
-dbRef.child(userId).child("way_point").setValue(data);
+dbRef.child("way_point").setValue(data);
 
 // 例
 // data: 送信項目
